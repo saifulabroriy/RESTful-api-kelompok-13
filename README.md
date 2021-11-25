@@ -106,7 +106,6 @@ Error :
   {
     "name": "Coba Kategori"
   }
-
   ```
 
   #### Reponse
